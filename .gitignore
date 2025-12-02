@@ -108,7 +108,7 @@ logs/
 
 # Package managers
 yarn.lock
-package-lock.json
+
 
 # Build outputs
 dist/
